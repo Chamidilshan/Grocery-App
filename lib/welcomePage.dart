@@ -43,7 +43,7 @@ class WelcomePage extends StatelessWidget {
                       height: 50.0
                   ),
                   Text(
-                    'Bienvenido',
+                    'Welcome',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         color: Colors.white,
@@ -55,7 +55,7 @@ class WelcomePage extends StatelessWidget {
                     height: 40.0,
                   ),
                   Text(
-                    'Products Frescos. \nSaludables. A Tiempo',
+                    'Fresh Products. \n Healthy On time',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         color: Colors.white,
@@ -76,7 +76,7 @@ class WelcomePage extends StatelessWidget {
                         backgroundColor: Color(0xFF80C038),
                       ),
                       child: Text(
-                        'Tratar Ahora',
+                        'Treat Now',
                         style: TextStyle(
                             color: Colors.white,
                             fontSize: 16.0,
@@ -106,7 +106,7 @@ class WelcomePage extends StatelessWidget {
                           child: Container(
                             padding: EdgeInsets.all(20),
                             child: Text(
-                              'Hacer Login',
+                              'Login',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   fontSize: 16,

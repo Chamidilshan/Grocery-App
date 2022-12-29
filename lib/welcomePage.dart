@@ -55,7 +55,7 @@ class WelcomePage extends StatelessWidget {
                     height: 40.0,
                   ),
                   Text(
-                    'Fresh Products. \n Healthy On time',
+                    'Fresh Healthy  Products. ',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         color: Colors.white,

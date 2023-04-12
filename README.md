@@ -1,16 +1,38 @@
-# grocery_app
-
-A new Flutter project.
+# Grocery App
+This is a Flutter Grocery App, designed to make online grocery shopping easier and more convenient. Users can browse a variety of products, add them to their cart, and place an order for home delivery.
 
 ## Getting Started
+To get started with the app, clone this repository:
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/Chamidilshan/Grocery-App.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+2. Install dependencies
+
+```bash
+flutter pub get
+
+```
+3. Run the app
+
+```bash
+flutter run
+
+```
+
+
+## Features
+- Browse products by category
+- Search for products by name
+- Add products to cart
+- Edit quantity of products in cart
+- Place an order for home delivery
+
+## Built With
+- Flutter SDK
+- Firebase Realtime Database
